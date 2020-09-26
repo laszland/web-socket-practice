@@ -1,0 +1,25 @@
+{
+  "name": "web-socket-practice",
+  "version": "1.0.0",
+  "description": "The aim of this project to learn the usage of web-sockets. The project os based on the series of [The Net Ninja](https://www.youtube.com/watch?v=vQjiN8Qgs3c&list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laszland/web-socket-practice.git"
+  },
+  "author": "Laszlo Roland Kiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laszland/web-socket-practice/issues"
+  },
+  "homepage": "https://github.com/laszland/web-socket-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
